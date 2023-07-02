@@ -17,9 +17,25 @@
 * Plants -  this section includes herbal plants, each card contains: description, scientifc name, and usage
 * Season - shows the life span of a specific plant whether if it is sunny or rainy season
 # GUI
-<p align="center">
-  <img src="![Screenshot (1013)](https://github.com/cortezjoseph/ADET_FINALPROJ/assets/114766731/39cff187-c7d7-4914-8708-e6617cca8b01)" />
-</p>
+<div align="center">
+  <h1 align="center">Home Page</h1>
+  <img src="https://github.com/cortezjoseph/ADET_FINALPROJ/assets/114766731/39cff187-c7d7-4914-8708-e6617cca8b01" />
+</div>
+<div align="center">
+  <h1 align="center">Plant Description</h1>
+  <img src="https://github.com/cortezjoseph/ADET_FINALPROJ/assets/114766731/4a5bcfb6-37c0-4726-bdc8-342d277d6d55" />
+</div><div align="center">
+  <h1 align="center">Disease</h1>
+  <img src="https://github.com/cortezjoseph/ADET_FINALPROJ/assets/114766731/11c3ac5c-4b5f-49a0-8d13-946e30ce8a8d" />
+</div>
+<div align="center">
+  <h1 align="center">Recommended Plants</h1>
+  <img src="https://github.com/cortezjoseph/ADET_FINALPROJ/assets/114766731/52407222-74a2-43ed-a966-a71511e6ca7f" />
+</div>
+<div align="center">
+  <h1 align="center">Navigation Bar</h1>
+  <img src="https://github.com/cortezjoseph/ADET_FINALPROJ/assets/114766731/6a6ac868-d29c-4b0f-99cd-1b1263d0e8e1" />
+</div>
 
 
 
