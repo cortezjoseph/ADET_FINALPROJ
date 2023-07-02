@@ -16,4 +16,10 @@
 * Category Section - for this content, contains various diseases that medicinal plants can handle
 * Plants -  this section includes herbal plants, each card contains: description, scientifc name, and usage
 * Season - shows the life span of a specific plant whether if it is sunny or rainy season
+# GUI
+<p align="center">
+  <img src="![Screenshot (1013)](https://github.com/cortezjoseph/ADET_FINALPROJ/assets/114766731/39cff187-c7d7-4914-8708-e6617cca8b01)" />
+</p>
+
+
 
