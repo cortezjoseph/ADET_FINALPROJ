@@ -18,24 +18,10 @@
 * Season - shows the life span of a specific plant whether if it is sunny or rainy season
 # GUI
 <div align="center">
-  <h1 align="center">Home Page</h1>
-  <img src="https://github.com/cortezjoseph/ADET_FINALPROJ/assets/114766731/39cff187-c7d7-4914-8708-e6617cca8b01" />
+  <img src="https://github.com/cortezjoseph/ADET_FINALPROJ/assets/114766731/92892161-3bc6-42fb-b1ad-c5fb9fa13085" />
 </div>
 <div align="center">
-  <h1 align="center">Plant Description</h1>
-  <img src="https://github.com/cortezjoseph/ADET_FINALPROJ/assets/114766731/4a5bcfb6-37c0-4726-bdc8-342d277d6d55" />
-</div><div align="center">
-  <h1 align="center">Disease</h1>
-  <img src="https://github.com/cortezjoseph/ADET_FINALPROJ/assets/114766731/11c3ac5c-4b5f-49a0-8d13-946e30ce8a8d" />
+  <img src="https://github.com/cortezjoseph/ADET_FINALPROJ/assets/114766731/946a26ae-3850-4edb-8518-f72a132b136e" />
 </div>
-<div align="center">
-  <h1 align="center">Recommended Plants</h1>
-  <img src="https://github.com/cortezjoseph/ADET_FINALPROJ/assets/114766731/52407222-74a2-43ed-a966-a71511e6ca7f" />
-</div>
-<div align="center">
-  <h1 align="center">Navigation Bar</h1>
-  <img src="https://github.com/cortezjoseph/ADET_FINALPROJ/assets/114766731/6a6ac868-d29c-4b0f-99cd-1b1263d0e8e1" />
-</div>
-
 
 
