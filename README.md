@@ -18,10 +18,9 @@
 * Season - shows the life span of a specific plant whether if it is sunny or rainy season
 # GUI
 <div align="center">
-  <img src="https://github.com/cortezjoseph/ADET_FINALPROJ/assets/114766731/92892161-3bc6-42fb-b1ad-c5fb9fa13085" />
+  <img src="https://github.com/cortezjoseph/ADET_FINALPROJ/assets/114766731/5d3cd0c2-c1ad-498a-af96-2b567b067abb" />
 </div>
 <div align="center">
-  <img src="https://github.com/cortezjoseph/ADET_FINALPROJ/assets/114766731/946a26ae-3850-4edb-8518-f72a132b136e" />
+  <img src="https://github.com/cortezjoseph/ADET_FINALPROJ/assets/114766731/e1912ed7-4a0f-44ef-9221-64a11b19084c" />
 </div>
-
 
