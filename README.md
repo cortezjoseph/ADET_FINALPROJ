@@ -17,10 +17,4 @@
 * Plants -  this section includes herbal plants, each card contains: description, scientifc name, and usage
 * Season - shows the life span of a specific plant whether if it is sunny or rainy season
 # GUI
-<div align="center">
-  <img src="https://github.com/cortezjoseph/ADET_FINALPROJ/assets/114766731/5d3cd0c2-c1ad-498a-af96-2b567b067abb" />
-</div>
-<div align="center">
-  <img src="https://github.com/cortezjoseph/ADET_FINALPROJ/assets/114766731/e1912ed7-4a0f-44ef-9221-64a11b19084c" />
-</div>
 
