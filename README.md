@@ -25,9 +25,12 @@
 
 # SYSTEM ARCHITECTURE
 <img src="/path/to/img.jpg" alt="Alt text" title="Optional title">
-
+Sequence Diagram<br>
+This figure displays the Sequence Diagram, it portrays the processes involved and the sequence of message exchanged between operations and an entity. As the figure shows the actor where it executed an operation and directly manipulates the objects to exchange message to return a content expected by the user.<br>
+<img src="assets/Use Case Diagram.png.jpg" alt="Alt text" title="Optional title">
+Use Case Diagram<br>
+The Use Case Diagram presents the high-level function and scope of the application. The actor describes how the user uses the system. Furthermore, the user can change the theme to light/night mode along with the functionality of the search bar to locate specific subjects. Home button displays the herbal plants as it is the homepage of the application, then the condition displays the diseases atop of it shows the recommended herbal plant to remedy a certain disease, and the season exhibits the availability of the herbal plants.
 # APPLICATION SCREENSHOTS
-
 # TEAM MEMBERS
 
 
