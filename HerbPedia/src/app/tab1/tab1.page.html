@@ -1,0 +1,38 @@
+
+
+<ion-item class="toolbar2">
+    <ion-icon size="small" name="sunny-outline"></ion-icon>
+    <ion-toggle [ngModel]="darkmode" (ionChange)="darkenable()"></ion-toggle>
+  
+    <ion-icon size="small" name="moon"></ion-icon>
+    
+    <ion-searchbar (ionChange)="filteredItems()" [(ngModel)]="searchItem"></ion-searchbar>
+ </ion-item>     
+
+<div class="herb">
+  <img src="..\assets\images\header1.png" alt="">
+</div>
+
+<ion-content> 
+  <div class="content">
+  <div class="main">
+  <div>
+ 
+      <ion-card *ngFor="let item of items" [routerLink]="item.page">
+        <section class="img">
+          
+          <img class="imgCard" src="{{item.image}}">
+      
+        </section>
+        <section class="imgContent">
+          <ion-card-title>{{item.name}}</ion-card-title>
+        <ion-card-content> click for more info
+        </ion-card-content>
+        </section>
+        
+      </ion-card> 
+    </div>
+  </div>
+  
+ </div>
+</ion-content>

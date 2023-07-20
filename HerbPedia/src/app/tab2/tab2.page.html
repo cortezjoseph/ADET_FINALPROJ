@@ -1,0 +1,33 @@
+
+
+<ion-item class="toolbar2">
+  <ion-searchbar (ionChange)="filteredItems2()" [(ngModel)]="searchItem2"></ion-searchbar>
+</ion-item>     
+
+<div class="herb">
+<img src="..\assets\images\header1.png" alt="">
+</div>
+
+<ion-content> 
+<div class="content">
+<div class="main">
+<div>
+
+    <ion-card *ngFor="let cond of con" [routerLink]="cond.page">
+      <section class="img">
+        
+        <img class="imgCard" src="{{cond.image}}">
+    
+      </section>
+      <section class="imgContent">
+        <ion-card-title>{{cond.name}}</ion-card-title>
+      <ion-card-content> click for more info
+      </ion-card-content>
+      </section>
+      
+    </ion-card> 
+  </div>
+</div>
+
+</div>
+</ion-content>

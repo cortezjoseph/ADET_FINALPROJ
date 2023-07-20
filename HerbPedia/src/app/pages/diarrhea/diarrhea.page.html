@@ -1,0 +1,117 @@
+<ion-content>
+  <div class="header">
+    <ion-button (click)="Back()">
+      <ion-icon slot="icon-only" name="arrow-back"></ion-icon>
+    </ion-button>
+  </div>
+
+  <div class="note">
+    <h3>Recommended Herbal Plants</h3>
+  </div>
+
+  <div class="wrapper">
+    <div class="polaroid">
+      <img src="../assets/images/rangoon.png" style="width:100%">
+      <div class="container">
+        <ion-button id="open-modal1" expand="block">Rangoon</ion-button>
+      </div>
+  </div>
+  
+  <div class="polaroid">
+    <img src="../assets/images/forest.png" style="width:100%">
+    <div class="container">
+      <ion-button id="open-modal2" expand="block">Forest Tea</ion-button>
+    </div>
+  </div>
+
+  <div class="polaroid">
+    <img src="../assets/images/five.png" style="width:100%">
+    <div class="container">
+      <ion-button id="open-modal3" expand="block">Five-leaved</ion-button>
+    </div>
+  </div>
+
+  <div class="polaroid">
+    <img src="../assets/images/blumea.png" style="width:100%">
+    <div class="container">
+      <ion-button id="open-modal4" expand="block">Blumea</ion-button>
+    </div>
+  </div>
+  </div>
+
+  <div class="main">
+
+  <div class="mainContent">
+  <div class="content">
+    <img class="imgContent" src="../assets/images/diarrhea.png">
+    <h1>Diarrhea</h1>
+  </div>
+  <div class="content">
+    <h3>Description</h3>
+    <h4>
+      Diarrhea is very common, happening in most people a few times each year. When you have diarrhea, your stool will be loose and watery. In most cases, the cause is unknown and it goes away on its own after a few days. Diarrhea can be caused by bacteria. Dehydration is a dangerous side effect of diarrhea.
+      <br><br>
+      In general, diarrhea is self-limited and goes away (resolves) without intervention. If your diarrhea fails to improve and resolve completely, you can be at risk of complications (dehydration, electrolyte imbalance, kidney failure and organ damage).
+
+      <br><br>Call your healthcare provider if you have diarrhea that fails to get better or go away, or if you experience symptoms of dehydration. These symptoms can include:
+
+      <br><br>Dark urine and small amounts of urine or loss of urine production.
+      <br>Rapid heart rate.
+      <br>Headaches.
+      <br>Flushed, dry skin.
+      <br>Irritability and confusion.
+      <br>Light-headedness and dizziness.
+      <br>Severe nausea and vomiting, the inability to tolerate or keep anything down by mouth.
+    </h4>
+  </div>
+</div>
+</div>
+
+<ion-modal trigger="open-modal1" [initialBreakpoint]="1" [breakpoints]="[0, 1]">
+  <ng-template>
+    <div class="block">
+      <h1>Rangoon Creeper</h1><br><br>
+      <h3>Procedure:</h3>
+      <p>
+        Also known as the Rangoon Creeper, Niyog-niyogan offers numerous benefits, including working as an effective remedy for diarrhea and loose bowel movement. To use this Philippine medicinal plant, harvest its ripe fruits and roast them. Take them internally until your symptoms subside. This plant may also aid in expelling intestinal parasites and worms. Get dried niyog-niyogan seeds and take 4 to 7 seeds orally.
+    </p>
+    </div>
+  </ng-template>
+</ion-modal>
+
+<ion-modal trigger="open-modal2" [initialBreakpoint]="1" [breakpoints]="[0, 1]">
+  <ng-template>
+    <div class="block">
+      <h1>Forest Tea</h1><br><br>
+      <h3>Procedure:</h3>
+      <p>
+        Also called kalabonog, maramara, semente and buyo-buyo, tsaang-gubat is a Philippine herbal plant that may be utilized to treat diarrhea or LBM (loose bowel movement). To treat LBM using tsaang-gubat, boil dried or fresh leaves in two glasses of water for 15 minutes. Let cool, then strain and divide into four parts. Drink one part every two hours (until stool becomes solid).
+    </p>
+    </div>
+  </ng-template>
+</ion-modal>
+
+<ion-modal trigger="open-modal3" [initialBreakpoint]="1" [breakpoints]="[0, 1]">
+  <ng-template>
+    <div class="block">
+      <h1>Five Leaved Chaste</h1><br><br>
+      <h3>Procedure:</h3>
+      <p>
+        While Lagundi leaves are known to alleviate cough symptoms, the plant’s flowers may also play an important role in easing diarrhea symptoms. To use Lagundi to stop loose bowel movement, extract the juices of the Lagundi flowers and take the extracts until your diarrhea symptoms are eased.
+    </p>
+  </div>
+  </ng-template>
+</ion-modal>
+
+<ion-modal trigger="open-modal4" [initialBreakpoint]="1" [breakpoints]="[0, 1]">
+  <ng-template>
+    <div class="block">
+      <h1>Blumea Camphor</h1><br><br>
+      <h3>Procedure:</h3>
+      <p>
+        If you’re looking for a natural and calming remedy for diarrhea, sambong tea is a good choice. Used to help bulk up stool and treat stomach cramps and spasms, sambong tea can be prepared by gathering fresh sambong leaves and steeping them in hot water for 10 minutes. Drink up to 4 glasses of sambong tea a day and wait for your symptoms to be alleviated.
+    </p>
+    </div>
+  </ng-template>
+</ion-modal>
+</ion-content>

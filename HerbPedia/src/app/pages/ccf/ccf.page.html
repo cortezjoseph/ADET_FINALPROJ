@@ -1,0 +1,114 @@
+<ion-content>
+  <div class="header">
+    <ion-button (click)="Back()">
+      <ion-icon slot="icon-only" name="arrow-back"></ion-icon>
+    </ion-button>
+  </div>
+
+  <div class="note">
+    <h3>Recommended Herbal Plants</h3>
+  </div>
+
+  <div class="wrapper">
+    <div class="polaroid">
+      <img src="../assets/images/five.png" alt="5 Terre" style="width:100%">
+      <div class="container">
+        <ion-button id="open-modal1" expand="block">Five-leaved</ion-button>
+      </div>
+  </div>
+  
+  <div class="polaroid">
+    <img src="../assets/images/bitter.png" alt="Norther Lights" style="width:100%">
+    <div class="container">
+      <ion-button id="open-modal2" expand="block">Bitter Gourd</ion-button>
+    </div>
+  </div>
+
+  <div class="polaroid">
+    <img src="../assets/images/asthmaweed.png" alt="Norther Lights" style="width:100%">
+    <div class="container">
+      <ion-button id="open-modal3" expand="block">Asthma Weed</ion-button>
+    </div>
+  </div>
+
+  <div class="polaroid">
+    <img src="../assets/images/blumea.png" alt="Norther Lights" style="width:100%">
+    <div class="container">
+      <ion-button id="open-modal4" expand="block">Blumea</ion-button>
+    </div>
+  </div>
+  </div>
+
+  <div class="main">
+
+  <div class="mainContent">
+  <div class="content">
+    <img class="imgContent" src="../assets/images/fever.png">
+    <h1>Cough, Colds, Fever</h1>
+  </div>
+  <div class="content">
+    <h3>Description</h3>
+    <h4>
+      COUGH - A cough can further be classified as productive or nonproductive. The productive cough produces phlegm or mucus, which may have come from the lungs or the nasal sinuses. Some causes of a productive cough include viral illnesses, bacterial infection, postnasal drip, tobacco use, or the reflux of stomach acid.<br><br>
+      COLDS - Colds usually take a few days to fully develop. Typical symptoms include a stuffy or runny nose, sneezing, coughing and a sore throat. Sometimes a cold is also accompanied by a mild fever, weakness, a headache and joint pain. Occasionally, colds are mistaken for the flu.<br><br>
+      FEVER - Fever is the temporary increase in the body's temperature in response to a disease or illness. A child has a fever when the temperature is at or above one of these levels: 100.4°F (38°C) measured in the bottom (rectally). 
+
+    </h4>
+  </div>
+</div>
+</div>
+
+<ion-modal trigger="open-modal1" [initialBreakpoint]="1" [breakpoints]="[0, 1]">
+  <ng-template>
+    <div class="block">
+      <h1>Five-leaved Chaste</h1>
+      <h3>Procedure:</h3>
+      <p>
+      Among the medicinal uses and benefits of lagundi are to stop coughing, relieve asthma, facilitate the discharge of phlegm and lower fever due to colds or flu. It is also a pain reliever for headaches and toothache.
+
+      <br><br>For cough, asthma and fever, here’s how to prepare lagundi leaves. Boil lagundi leaves in two glasses of water for at least 15 minutes. This boiled mixture is called among experts as “decoction.” To stop coughing, take ½ glass of decoction three times a day. In addition, drink at least eight glasses of water a day to further help loosen phlegm.
+      
+      <br>If you’re suffering from asthma, take 1/3 glass of decoction three times a day. However, if your asthma does not improve after one dose of the decoction or when the attack is severe, consult your physician right away.
+      
+      <br>For fever, take ½ glass of decoction every three hours, or as needed. To relieve headache, heat enough fresh lagundi leaves over a fire until slightly wilted. Then crush the leaves and apply the poultice to the forehead and temples. Bandage the leaves in place. Change the dressing every four hours when needed.
+    </p>
+    </div>
+  </ng-template>
+</ion-modal>
+
+<ion-modal trigger="open-modal2" [initialBreakpoint]="1" [breakpoints]="[0, 1]">
+  <ng-template>
+    <div class="block">
+      <h1>Bitter Gourd</h1><br><br>
+      <h3>Procedure:</h3>
+      <p>
+      A known antitussive and antipyretic, ampalaya leaf juice is known to assist the human body to clear viral infections that often lead to cough and colds. To use ampalaya to alleviate cough, grind and juice ampalaya leaves every day. Drink a spoonful of concentrated ampalaya leaf juice every day. However, if you’re planning on taking ampalaya as a treatment option when you’re pregnant, it’s best that you first ask for a health expert’s opinion.
+    </p>
+    </div>
+  </ng-template>
+</ion-modal>
+
+<ion-modal trigger="open-modal3" [initialBreakpoint]="1" [breakpoints]="[0, 1]">
+  <ng-template>
+    <div class="block">
+      <h1>Asthma Weed</h1><br><br>
+      <h3>Procedure:</h3>
+      <p>
+      Also known as gatas-gatas, tawa-tawa is a powerful herbal medicine that is used in the Philippines to treat viral infections, including colds and cough, and fever symptoms. Aside from its antiviral properties, tawa-tawa is also a well-known anti-bacterial, antifungal, and anti-inflammatory. To use this herb, you can boil its leaves and drink it as a tea to help relieve respiratory symptoms associated with cough and even asthma.
+   </p>
+  </div>
+  </ng-template>
+</ion-modal>
+
+<ion-modal trigger="open-modal4" [initialBreakpoint]="1" [breakpoints]="[0, 1]">
+  <ng-template>
+    <div class="block">
+      <h1>Blumea Camphor</h1><br><br>
+      <h3>Procedure:</h3>
+      <p>
+      Sambong is an effective antipyretic that can aid in lowering high temperatures brought on by fevers. To utilize sambong leaves, soak the leaves in cold water and wring them out. Place the leaves on clean cloths, and apply the cloths to the feverish person’s armpits and forehead.
+    </p>
+    </div>
+  </ng-template>
+</ion-modal>
+</ion-content>

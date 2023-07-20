@@ -1,0 +1,39 @@
+.splash-img{
+        
+    -webkit-animation:puff-in-center 1.5s cubic-bezier(.47,0.000,.745,.715) both;animation:puff-in-center 1.5s cubic-bezier(.47,0.000,.745,.715) both
+  }
+  @-webkit-keyframes puff-in-center{0%{-webkit-transform:scale(2);transform:scale(2);-webkit-filter:blur(4px);filter:blur(4px);opacity:0}100%{-webkit-transform:scale(1);transform:scale(1);-webkit-filter:blur(0);filter:blur(0);opacity:1}}@keyframes puff-in-center{0%{-webkit-transform:scale(2);transform:scale(2);-webkit-filter:blur(4px);filter:blur(4px);opacity:0}100%{-webkit-transform:scale(1);transform:scale(1);-webkit-filter:blur(0);filter:blur(0);opacity:1}}
+
+
+.custom-overlay{
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 100000;
+  width: 100%;
+  background-color: #799B7E;
+}
+
+.flb{
+  background-color: #fcfcfc;
+  height: 100%;
+  width: 100%;
+  animation: pulse 2s linear forwards;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Align-item{
+  max-width: 50%;
+}
+
+.Align-item--top{
+  align-self: flex-start;
+}
+
+.Align-item--bottom{
+  align-self: flex-end;
+}

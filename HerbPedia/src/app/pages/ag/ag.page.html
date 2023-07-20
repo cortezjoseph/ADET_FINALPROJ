@@ -1,0 +1,103 @@
+<ion-content>
+  <div class="header">
+    <ion-button (click)="Back()">
+      <ion-icon slot="icon-only" name="arrow-back"></ion-icon>
+    </ion-button>
+  </div>
+
+  <div class="note">
+    <h3>Recommended Herbal Plants</h3>
+  </div>
+
+  <div class="wrapper">
+    <div class="polaroid">
+      <img src="../assets/images/pansit.png" alt="5 Terre" style="width:100%">
+      <div class="container">
+        <ion-button id="open-modal1" expand="block">Shiny Bush</ion-button>
+      </div>
+  </div>
+  
+  <div class="polaroid">
+    <img src="../assets/images/yerba.png" alt="Norther Lights" style="width:100%">
+    <div class="container">
+      <ion-button id="open-modal2" expand="block">Peppermint</ion-button>
+    </div>
+  </div>
+
+  <div class="polaroid">
+    <img src="../assets/images/blumea.png" alt="Norther Lights" style="width:100%">
+    <div class="container">
+      <ion-button id="open-modal3" expand="block">Blumea</ion-button>
+    </div>
+  </div>
+
+  </div>
+
+  <div class="main">
+
+  <div class="mainContent">
+  <div class="content">
+    <img class="imgContent" src="../assets/images/arthritis.png">
+    <h1>Arthritis and Gout</h1>
+  </div>
+  <div class="content">
+    <h3>Description</h3>
+    <h4>
+      ARTHRITIS - Arthritis is not one disease alone, but an umbrella term for more than 100 conditions that affect the joints of the body.
+
+      <br><br>Joints are points where 2 or more bones meet, such as in the wrist, knuckles, hips, knees and ankles. If you have arthritis, the joints are inflamed, causing discomfort and pain.
+      
+      <br><br>It can range from mild to severe and can affect people of all ages. It affects nearly 4 million Australians, including at least 6,000 children.
+      
+      <br><br>GOUT - Gout is a type of arthritis that leads to painful inflammation in a joint, caused by a build-up of urate crystals.
+      <br><br>The big toe is most commonly affected, but gout can affect any joint.
+      <br><br>To diagnose gout, a sample of fluid from the affected joint can be checked for urate crystals.
+      <br><br>Your doctor can prescribe medicines to relieve your symptoms and shorten their duration.
+      <br><br>If you have recurrent attacks of gout, your doctor can advise you on ways to reduce the risk of future attacks.
+    </h4>
+  </div>
+</div>
+</div>
+
+<ion-modal trigger="open-modal1" [initialBreakpoint]="1" [breakpoints]="[0, 1]">
+  <ng-template>
+    <div class="block">
+      <h1>Shiny Bush</h1><br><br>
+      <h3>Procedure:</h3>
+      <p>
+        Scientific studies have shown the efficacy of pansit-pansitan as a conjunct treatment for arthritic pain, thanks to its anti-inflammatory and analgesic characteristics. Aside from these, this herbal plant from the Philippines is also able to keep uric acid in balance, thus lowering the chances of gout development.
+
+        <br><br>To use this plant, you can either add it to salads or cook it with other vegetables, or you can drink it as pansit-pansitan tea. Brew your own pansit-pansitan tea by gathering fresh leaves and boiling them for 10 to 15 minutes. Strain the concoction and drink half a cup of this tea 3 times a day.
+      </p>
+     
+    </div>
+  </ng-template>
+</ion-modal>
+
+<ion-modal trigger="open-modal2" [initialBreakpoint]="1" [breakpoints]="[0, 1]">
+  <ng-template>
+    <div class="block">
+      <h1>Peppermint</h1>
+      <br><br>
+      <h3>Procedure:</h3>
+      <p>Relieve arthritis pain with Yerba Buena’s anti-inflammatory properties. Heat fresh Yerba Buena leaves over a fire, then pound them into a rough paste. While still warm, apply the poultice to your affected joints. Tie a bandage around over the Yerba Buena leaf pastes, and change the dressing every four hours or as needed.</p>
+    </div>
+  </ng-template>
+</ion-modal>
+
+<ion-modal trigger="open-modal3" [initialBreakpoint]="1" [breakpoints]="[0, 1]">
+  <ng-template>
+    <div class="block">
+      <h1>Blumea</h1>
+      <br><br>
+      <h3>Procedure:</h3>
+      <p>Sambong is a medicinal herb that is well-known in the Philippines for its useful traits in treating kidney stones, wounds, and cuts. It can be helpful as well in healing rheumatism, colds, coughs, and acts as an anti-diarrhea and anti-spasmodic.
+
+      <br><br>Patients with kidney problems are familiar with sambong, as it’s popular to carry diuretic treatment for hypertension. It also regulates uric acid in the body, making it a great preventive for gout.
+        
+      <br><br>To use sambong to ease arthritic pain, crush or grind sambong leaves into a paste and directly apply it to your sore joints and muscles.</p>
+    </div>
+  </ng-template>
+</ion-modal>
+
+</ion-content>

@@ -1,0 +1,87 @@
+<ion-content>
+  <div class="header">
+    <ion-button (click)="Back()">
+      <ion-icon slot="icon-only" name="arrow-back"></ion-icon>
+    </ion-button>
+  </div>
+
+  <div class="note">
+    <h3>Recommended Herbal Plants</h3>
+  </div>
+
+  <div class="wrapper">
+  
+  <div class="polaroid">
+    <img src="../assets/images/forest.png" style="width:100%">
+    <div class="container">
+      <ion-button id="open-modal3" expand="block">Guava</ion-button>
+    </div>
+  </div>
+
+  <div class="polaroid">
+    <img src="../assets/images/five.png" style="width:100%">
+    <div class="container">
+      <ion-button id="open-modal2" expand="block">Forest Tea</ion-button>
+    </div>
+  </div>
+</div>
+  <div class="main">
+
+  <div class="mainContent">
+  <div class="content">
+    <img class="imgContent" src="../assets/images/diarrhea.png">
+    <h1>Diarrhea</h1>
+  </div>
+  <div class="content">
+    <h3>Description</h3>
+    <h4>
+      SKIN DISEASES- are conditions that affect your skin. These diseases may cause rashes, inflammation, itchiness or other skin changes. Some skin conditions may be genetic, while lifestyle factors may cause others. Skin disease treatment may include medications, creams or ointments, or lifestyle changes.<br><br>
+      Certain lifestyle factors can lead to the development of a skin disease. Underlying health conditions may affect your skin, too. Common causes of skin diseases include:<br>
+
+      <br>Bacteria trapped in your pores or hair follicles.
+      <br>Conditions that affect your thyroid, kidneys or immune system.
+      <br>Contact with environmental triggers, such as allergens or another person’s skin.
+      <br>Genetics
+      <br>Fungus or parasites living on your skin.
+      <br>Medications, such as the ones that treat inflammatory bowel disease (IBD).
+      <br>Viruses.
+      <br>Diabetes.
+      <br>Sun.<br><br>
+
+      WOUND HEALING - Wound healing mostly means healing of the skin.
+      Begins immediately after an injury to the epidermal layer and might take years.
+      Dynamic process including highly organized cellular, humoral, and molecular mechanisms. 
+      Has 3 overlapping phases which are inflammation, proliferation, and remodelling. Any disruption leads to abnormal wound healing
+
+
+    </h4>
+  </div>
+</div>
+</div>
+
+
+<ion-modal trigger="open-modal2" [initialBreakpoint]="1" [breakpoints]="[0, 1]">
+  <ng-template>
+    <div class="block">
+      <h1>Forest Tea</h1><br><br>
+      <h3>Procedure:</h3>
+      <p>
+        Tsaang-gubat is a versatile plant that can treat numerous conditions, depending on how it is prepared. Because it boasts anti-inflammatory and antibacterial properties, this Philippine herbal plant can help promote wound healing and shorten the healing time. To use this herb, pound tsaang-gubat leaves and boil them for about 10 to 15 minutes. Use the cooled-down tea to clean and disinfect the wound periodically.
+      </p>
+    </div>
+  </ng-template>
+</ion-modal>
+
+<ion-modal trigger="open-modal3" [initialBreakpoint]="1" [breakpoints]="[0, 1]">
+  <ng-template>
+    <div class="block">
+      <h1>Guava</h1><br><br>
+      <h3>Procedure:</h3>
+      <p>
+        Known for their antiseptic properties, bayabas leaves have been used since time immemorial to treat wounds and cure bacterial infections. To create an astringent and antibacterial wash out of this Philippine herbal plant, boil clean leaves for 8 to 10 minutes and let cool. Wash the affected area with the bayabas “tea” 2 to 3 times a day until the wound is completely healed.
+      </p>
+  </div>
+  </ng-template>
+</ion-modal>
+
+</ion-content>

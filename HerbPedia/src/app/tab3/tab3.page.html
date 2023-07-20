@@ -1,0 +1,29 @@
+
+
+<ion-item class="toolbar2">
+  <ion-searchbar (ionChange)="filteredItems3()" [(ngModel)]="searchItem3"></ion-searchbar>
+</ion-item>     
+
+<ion-content> 
+<div class="content">
+<div class="main">
+<div>
+
+   <ion-card *ngFor="let season of sn">
+      <section class="img">
+        
+        <img class="imgCard" src="{{season.image}}">
+    
+      </section>
+      <section class="imgContent">
+        <ion-card-title>{{season.name}}</ion-card-title>
+        <img class="season" src="{{season.season}}">
+      </section>
+      
+    </ion-card>
+
+</div>
+</div>
+
+</div>
+</ion-content>
