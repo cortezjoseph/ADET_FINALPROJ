@@ -24,6 +24,7 @@
 **Deploy:** This phase, the system is prepared for delivery and the deployment phase commences. As a result, provided the system has performed as expected and fulfilled all standards, proponents start to implement the course.
 
 # SYSTEM ARCHITECTURE
+<img src="/path/to/img.jpg" alt="Alt text" title="Optional title">
 
 # APPLICATION SCREENSHOTS
 
