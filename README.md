@@ -24,7 +24,7 @@
 **Deploy:** This phase, the system is prepared for delivery and the deployment phase commences. As a result, provided the system has performed as expected and fulfilled all standards, proponents start to implement the course.
 
 # SYSTEM ARCHITECTURE
-<img src="/path/to/img.jpg" alt="Alt text" title="Optional title">
+<img src="assets/Herbpedia Sequence Diagram (1).png" alt="Alt text" title="Optional title">
 Sequence Diagram<br>
 This figure displays the Sequence Diagram, it portrays the processes involved and the sequence of message exchanged between operations and an entity. As the figure shows the actor where it executed an operation and directly manipulates the objects to exchange message to return a content expected by the user.<br>
 <img src="assets/Use Case Diagram.png.jpg" alt="Alt text" title="Optional title">
