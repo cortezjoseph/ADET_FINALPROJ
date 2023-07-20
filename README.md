@@ -9,6 +9,20 @@
 
 # DEVELOPMENT MODEL
 
+<img width="416" alt="AGILE" src="https://github.com/cortezjoseph/ADET_FINALPROJ/assets/114508743/3dcecb7d-273e-4bcf-a03e-7d476de7fadb">
+
+<p align="justify"> The Agile Development Methodology will be used in the creation of the mobile application. The system will be developed with the help of the agile approach, which will increase the system's effectiveness and efficiency. In this method, there is continuous feedback, giving team members the chance to adapt to problems as they appear and stakeholders the chance to communicate regularly. Although it was first developed for software development, the Agile method is now extensively utilized to carry out a variety of project types and manage companies. As shown in the figure below, the model is consisting of five phases namely Requirements, Design, Develop, Test, and Deploy.
+
+**Requirements:** In the first stage of the development model, the developers identified what the goals of the application are. In addition, a few criteria, such as the programming languages to be used to get the necessary results, have been established.
+
+**Design:** Integrated into the development process to ensure that the software delivers value to the end-users. Design is entwined throughout the entire development process and not thought of as a discrete phase or activity. The developer closely collaborates with the product owner to comprehend their needs and uses input to iterate on the software's design and development.
+
+**Develop:** Developers begin creating the initial iteration of the software while utilizing the system's development. All associated production tasks in the proposed system's UX/UI design, architecture, and coding, are included in the development phase.
+
+**Test:** The advocates concentrated on enhancing system performance and quality for the user throughout this phase, as well as adding value for the project team by lowering administrative costs and speeding up the rate of response.
+
+**Deploy:** This phase, the system is prepared for delivery and the deployment phase commences. As a result, provided the system has performed as expected and fulfilled all standards, proponents start to implement the course.
+
 # SYSTEM ARCHITECTURE
 
 # APPLICATION SCREENSHOTS
