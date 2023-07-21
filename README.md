@@ -5,6 +5,9 @@
 **<h1 align="center">HerbPedia: An Informative Application Exploring The Power of Medicinal Plants Through The Life of Technology.</h1>**
 
 # PROJECT DESCRIPTION
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The number of patients seeking alternate and herbal therapy is growing exponentially. Herbal medicines are the synthesis of therapeutic experiences of generations of practicing physicians of indigenous systems of medicine for over hundreds of years. Herbal medicines are now in great demand in the developing world for primary health care not because they are inexpensive but also for better cultural acceptability, better compatibility with the human body and minimal side effects. However, recent findings indicate that all herbal medicines may not be safe as severe consequences are reported for some herbal drugs. Most herbal products on the market today have not been subjected to drug approval process to demonstrate their safety and effectiveness. Thousand years of traditional use can provide us with valuable guidelines to the selection, preparation and application of herbal formulation. To be accepted as viable alternative to modern medicine, the same vigorous method of scientific and clinical validation must be applied to prove the safety and effectiveness of a therapeutical product. In the present review we attempted to describe the present scenario and project the future of herbal medicine.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; An informative application that encompasses crucial information that is concerning to medicinal plants, it is proposed in order to understand the main purpose of herbal plants not only in our personal health but also in our community. The proposed application is intended to raise awareness how herbal plants plays an important role in handling different types of diseases. We the developers aims to collaborate the power and ability of herbal plants with the life of technology, and with that we are expecting that it would give a hand to the achievement to the objectives of SDG 3: Good Health and Well Being. 
 
 # SUSTAINABLE DEVELOPMENT GOAL
@@ -42,11 +45,15 @@
 
 **<p align="center">Sequence Diagram</p>**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _A sequence diagram is a type of interaction diagram because it describes how—and in what order—a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for a new system or to document an existing process._
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This figure displays the Sequence Diagram, it portrays the processes involved and the sequence of message exchanged between operations and an entity. As the figure shows the actor where it executed an operation and directly manipulates the objects to exchange message to return a content expected by the user.<br>
 
 <img src="assets/Use Case Diagram.png" alt="Alt text" title="Optional title">
 
 **<p align="center">Use Case Diagram</p>**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _A use case diagram is a graphical depiction of a user's possible interactions with a system. A use case diagram shows various use cases and different types of users the system has and will often be accompanied by other types of diagrams as well. The use cases are represented by either circles or ellipses. The actors are often shown as stick figures._
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Use Case Diagram presents the high-level function and scope of the application. The actor describes how the user uses the system. Furthermore, the user can change the theme to light/night mode along with the functionality of the search bar to locate specific subjects. Home button displays the herbal plants as it is the homepage of the application, then the condition displays the diseases, at top of it shows the recommended herbal plant to remedy a certain disease, and the season exhibits the life span of a specific plant in weather condition.
 
