@@ -12,7 +12,11 @@
 
 ![SDG](https://github.com/cortezjoseph/HerbPedia/assets/114766731/ab0c9a4b-3881-4ba4-b35b-fc1b27589bb5)
 
-**<p align="center">Goal 13: Climate Action</p>**
+**<p align="center">Goal 3: Good Health and Well Being</p>**
+
+<p align="center"> Sustainable Development Goal 3 seeks to ensure health and well-being for all, at every stage of life. The Goal addresses all major health priorities, including reproductive, maternal and child health; communicable, non-communicable and environmental diseases; universal health coverage; and access for all to safe, effective, quality and affordable medicines and vaccines. It also calls for more research and development, increased health financing, and strengthened capacity of all countries in health risk reduction and management.</p>
+
+<p align="center">Overall, space technologies can contribute to the prevention of people falling below the poverty line and help target specific support to those in need.</p>
 
 # DEVELOPMENT MODEL
 
@@ -47,7 +51,16 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Use Case Diagram presents the high-level function and scope of the application. The actor describes how the user uses the system. Furthermore, the user can change the theme to light/night mode along with the functionality of the search bar to locate specific subjects. Home button displays the herbal plants as it is the homepage of the application, then the condition displays the diseases, at top of it shows the recommended herbal plant to remedy a certain disease, and the season exhibits the life span of a specific plant in weather condition.
 
 
+
 # APPLICATION SCREENSHOTS
+
+![Screenshot (1030)](https://github.com/cortezjoseph/HerbPedia/assets/114766731/4a1d5c81-05a9-4ec5-a448-8c873ab6e51f)
+
+
+![Screenshot (1031)](https://github.com/cortezjoseph/HerbPedia/assets/114766731/7edadf6a-c0a1-494f-963c-114e06756dd7)
+
+
+![Screenshot (1032)](https://github.com/cortezjoseph/HerbPedia/assets/114766731/c264b6d2-426a-4a75-8cb8-30eae09a2f96)
 
 # TEAM MEMBERS
 
