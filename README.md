@@ -48,6 +48,11 @@
 
 
 # APPLICATION SCREENSHOTS
+
 # TEAM MEMBERS
+
+![members](https://github.com/cortezjoseph/HerbPedia/assets/114766731/bd7d299e-89ad-4a7c-92ff-b3b3c32369ed)
+
+
 
 
