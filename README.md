@@ -7,9 +7,15 @@
 # PROJECT DESCRIPTION
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; An informative application that encompasses crucial information that is concerning to medicinal plants, it is proposed in order to understand the main purpose of herbal plants not only in our personal health but also in our community. The proposed application is intended to raise awareness how herbal plants plays an important role in handling different types of diseases. We the developers aims to collaborate the power and ability of herbal plants with the life of technology, and with that we are expecting that it would give a hand to the achievement to the objectives of SDG 3: Good Health and Well Being. 
 
+# SUSTAINABLE DEVELOPMENT GOAL
+
+
+![SDG](https://github.com/cortezjoseph/HerbPedia/assets/114766731/ab0c9a4b-3881-4ba4-b35b-fc1b27589bb5)
+
 # DEVELOPMENT MODEL
 
-<img width="416" alt="AGILE" src="https://github.com/cortezjoseph/ADET_FINALPROJ/assets/114508743/3dcecb7d-273e-4bcf-a03e-7d476de7fadb">
+![agile methodology](https://github.com/cortezjoseph/HerbPedia/assets/114766731/a7c808c4-705d-4603-96ab-8396b3b203f2)
+
 
 <p align="justify"> The Agile Development Methodology will be used in the creation of the mobile application. The system will be developed with the help of the agile approach, which will increase the system's effectiveness and efficiency. In this method, there is continuous feedback, giving team members the chance to adapt to problems as they appear and stakeholders the chance to communicate regularly. Although it was first developed for software development, the Agile method is now extensively utilized to carry out a variety of project types and manage companies. As shown in the figure below, the model is consisting of five phases namely Requirements, Design, Develop, Test, and Deploy.
 
