@@ -21,6 +21,12 @@
 
 <p align="center">Overall, space technologies can contribute to the prevention of people falling below the poverty line and help target specific support to those in need.</p>
 
+**<p align="center">Targets and Indicators</p>**
+* **Target 3.3** - By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases
+  * **3.3.3** - Malaria incidence per 1,000 population
+  * **3.3.5** - Number of people requiring interventions against neglected tropical diseases
+* **Target 3.B** - Support the research and development of vaccines and medicines for the communicable and non-communicable diseases that primarily affect developing countries, provide access to affordable essential medicines and vaccines, in accordance with the Doha Declaration on the TRIPS Agreement and Public Health, which affirms the right of developing countries to use to the full the provisions in the Agreement on Trade-Related Aspects of Intellectual Property Rights regarding flexibilities to protect public health, and, in particular, provide access to medicines for all
+
 # DEVELOPMENT MODEL
 
 ![agile methodology](https://github.com/cortezjoseph/HerbPedia/assets/114766731/a7c808c4-705d-4603-96ab-8396b3b203f2)
